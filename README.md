@@ -37,7 +37,7 @@ Then, open the `index.html` file on your browser using live server to run the ap
 This webpage was developed by Esther Karanja- an upcoming software engineer.
 
 
-### Copyright and Licence
+### Copyright and License
 
 Copyright (c) [2023] [Esther Karanja]
 
