@@ -64,17 +64,16 @@ document.addEventListener("DOMContentLoaded", fetch("http://localhost:3000/fruit
         newList5.innerText= list5;
         document.getElementById('durian-description').append(newList5);
     }
-    document.getElementById("yes").addEventListener("click", ()=>{
-        alert("We are glad this website was helpful!");
-    })
-    document.getElementById("no").addEventListener("click", ()=>{
-        alert("We are sorry this website was not helpful.");
-    })
-    document.getElementById("nav").addEventListener("mouseover", (e)=>{
-        e.target.style.color = "aqua";
-    })
-
 })
 .catch(error =>{
     console.log(error);
 }))
+document.getElementById("yes").addEventListener("click", ()=>{
+    alert("We are glad this website was helpful!");
+})
+document.getElementById("no").addEventListener("click", ()=>{
+    alert("We are sorry this website was not helpful.");
+})
+document.getElementById("nav").addEventListener("mouseover", (e)=>{
+    e.target.style.color = "aqua";
+})
