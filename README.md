@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Welcome to JavaScript Project Mode!
+Welcome to Delicious Fruits Project!
 
 You’ve worked so hard to get here and have learned a ton. Now it's time to bring
 it all together!
